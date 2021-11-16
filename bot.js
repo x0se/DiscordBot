@@ -76,7 +76,7 @@ client.on("message", async message => {
     }
 })
 
-client.login('OTAxNTU3NDY0MDE1NzEyMzIz.YXRm0Q.s25Wdtk9YB8PMXc8EfFQQToyp8w')
+client.login('')
 
 
     client.on('message', async message => {
@@ -149,7 +149,7 @@ client.on('message', message => {
 });
 
 // Log our bot in using the token from https://discord.com/developers/applications
-client.login('OTAxNTU3NDY0MDE1NzEyMzIz.YXRm0Q.s25Wdtk9YB8PMXc8EfFQQToyp8w');
+client.login('');
 
 /**
  * The ready event is vital, it means that only _after_ this will your bot start reacting to information
